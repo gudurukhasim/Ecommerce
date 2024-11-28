@@ -1,0 +1,14 @@
+products=[
+    {
+        "name":"cam",
+        "value":1000
+    },
+    {
+        "name":"tab",
+        "value":2000
+    },
+    {
+        "name":"mobile",
+        "value":3000
+    },
+]
